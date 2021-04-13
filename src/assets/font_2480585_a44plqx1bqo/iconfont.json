@@ -1,0 +1,121 @@
+{
+  "id": "2480585",
+  "name": "统一用户权限管理系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20928080",
+      "name": "健康360视图",
+      "font_class": "jiankang360shitu",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "20928081",
+      "name": "数据质量评估",
+      "font_class": "shujuzhiliangpinggu",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "20928082",
+      "name": "医共体云平台",
+      "font_class": "yigongtiyunpingtai",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "20928083",
+      "name": "居民主索引",
+      "font_class": "juminzhusuoyin",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "20928084",
+      "name": "主数据",
+      "font_class": "zhushuju",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "20928085",
+      "name": "数据采集控制",
+      "font_class": "shujucaijikongzhi",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "20928086",
+      "name": "数据交换共享",
+      "font_class": "shujujiaohuangongxiang",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "20928087",
+      "name": "综合决策分析",
+      "font_class": "zonghejuecefenxi",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "20928088",
+      "name": "标准管理",
+      "font_class": "biaozhunguanli",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "20927875",
+      "name": "注销",
+      "font_class": "zhuxiao",
+      "unicode": "e757",
+      "unicode_decimal": 59223
+    },
+    {
+      "icon_id": "20927273",
+      "name": "数据入库",
+      "font_class": "shujuruku",
+      "unicode": "e714",
+      "unicode_decimal": 59156
+    },
+    {
+      "icon_id": "20927274",
+      "name": "更改批次号",
+      "font_class": "genggaipicihao",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "20927275",
+      "name": "数据推送",
+      "font_class": "shujutuisong",
+      "unicode": "e716",
+      "unicode_decimal": 59158
+    },
+    {
+      "icon_id": "20927276",
+      "name": "数据校验",
+      "font_class": "shujuxiaoyan",
+      "unicode": "e717",
+      "unicode_decimal": 59159
+    },
+    {
+      "icon_id": "20927277",
+      "name": "开始",
+      "font_class": "kaishi",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "20927278",
+      "name": "结束",
+      "font_class": "jieshu",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    }
+  ]
+}
